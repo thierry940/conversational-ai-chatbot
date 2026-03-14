@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ajouter par Thierry plus bas
+# Fichiers sensibles
+.env
+
+# Environnement virtuel Python
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers système Mac
+.DS_Store
